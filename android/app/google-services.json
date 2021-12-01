@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440440200932",
+    "project_id": "meetpets-3ed86",
+    "storage_bucket": "meetpets-3ed86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440440200932:android:c1a7d93a5317117b5556f1",
+        "android_client_info": {
+          "package_name": "com.example.meetpets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440440200932-o3js3ennurea0dc5m8lm8k7c5j68t4tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokEmOHX5gv9iCEUHQQnaGNGzIclXQ_SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440440200932-o3js3ennurea0dc5m8lm8k7c5j68t4tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
